@@ -146,9 +146,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Basic.h" />
+    <ClInclude Include="IntegralSecant.h" />
     <ClInclude Include="QuadFormula.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Basic.cpp" />
+    <ClCompile Include="IntegralSecant.cpp" />
+    <ClCompile Include="IntegralSecantTest.cpp" />
     <ClCompile Include="QuadFormula.cpp" />
     <ClCompile Include="QuadFormulaTest.cpp" />
   </ItemGroup>

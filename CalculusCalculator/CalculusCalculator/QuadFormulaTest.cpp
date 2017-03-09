@@ -1,4 +1,4 @@
-#include "QuadFormula.h"
+/*#include "QuadFormula.h"
 
 int main()
 {
@@ -7,4 +7,4 @@ int main()
 
 	system("pause");
 	return 0;
-}
+}*/
