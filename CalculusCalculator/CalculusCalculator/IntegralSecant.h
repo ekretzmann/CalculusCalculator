@@ -1,3 +1,7 @@
+/*
+Created by Ernie Kretzmann on 3/8/17
+*/
+
 #pragma once
 #include<iostream>
 #include<cmath>
@@ -16,7 +20,7 @@ public:
 private:
 	int power;
 	string integral;
-	void IntegralSecant::calculate(int m);
 	Basic basic1;
+	void IntegralSecant::calculate(int m);
 };
 
