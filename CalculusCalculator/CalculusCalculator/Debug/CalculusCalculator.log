@@ -1,3 +1,9 @@
-﻿  IntegralSecantTest.cpp
+﻿  QuadFormulaTest.cpp
+  QuadFormula.cpp
+  IntegralSecantTest.cpp
+  IntegralSecant.cpp
+  GUI.cpp
+  Generating Code...
+  LINK : D:\Student Data\Documents\GitHub\CalculusCalculator\CalculusCalculator\Debug\CalculusCalculator.exe not found or not built by the last incremental link; performing full link
   CalculusCalculator.vcxproj -> D:\Student Data\Documents\GitHub\CalculusCalculator\CalculusCalculator\Debug\CalculusCalculator.exe
   CalculusCalculator.vcxproj -> D:\Student Data\Documents\GitHub\CalculusCalculator\CalculusCalculator\Debug\CalculusCalculator.pdb (Full PDB)
